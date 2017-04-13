@@ -3,3 +3,15 @@
   text-align: center;
   font-weight:800;
 }
+
+form {
+	margin-bottom:40px;
+}
+
+input {
+	margin-bottom:15px;
+}
+
+.day {
+	margin-bottom:30px;
+}
